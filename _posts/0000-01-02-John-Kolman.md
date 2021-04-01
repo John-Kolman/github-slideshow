@@ -6,6 +6,7 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+#This is from the tutorial
+**supports markdown**
 
 Use the left arrow to go back!
